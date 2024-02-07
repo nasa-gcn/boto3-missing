@@ -1,3 +1,5 @@
+[![PyPI](https://img.shields.io/pypi/v/boto3-missing)](https://pypi.org/project/boto3-missing/)
+
 # boto3-missing
 
 The AWS Python SDK, [boto3], has [resource] objects that provide
